@@ -16,7 +16,7 @@ It will install all libraries for both Python2 & Python3
 This script has only been tested on Ubuntu 18.04.2 LTS bionic<br>
 It will do all the work in the background, and you will be able to see what is installing.<br>
 An "output.txt" file will be created on your desktop and you can check it to see if there was any errors in the process.<br>
-<p><span style="color: #999999; background-color: #ffff00;"><strong><em>&nbsp;Check the "output.txt" file included to see the results of the installation</em></strong></span></p><br>
+<strong><i>Check the "output.txt" file included to see the results of the installation</i></strong><br>
 I am not a professional, but I wanted to do something, and I am looking forward for any feedback or contribution to this script.
 
 ## How does it work?
