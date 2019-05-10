@@ -25,6 +25,8 @@ I am not a professional, but I wanted to do something, and I am looking forward 
 * Use the command line <b>"bash pyds.sh"</b>
 * Type "y" and press Enter
 * Type your "sudo" password when asked and press Enter
+* Set back and let the script work, it might take some time.<br>
+<b>NOTE: Do not stop the script after you started it, some installations might take longer that the others.</b>
 
 ## Future Work
 I want to make sure that this script works without errors, and I want to make it work on more linux distros.
