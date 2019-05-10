@@ -21,7 +21,7 @@ I am not a professional, but I wanted to do something, and I am looking forward 
 ## How does it work?
 * Download the "pyds.sh" file 
 * Open your command prompt 
-* Locate the folder you downloaded the file to using the "cd" command 
+* Locate the folder you downloaded the file to using the "cd" command<br> <i>e.g: cd ~/Downloads/</i>
 * Use the command line <b>"bash pyds.sh"</b>
 * Type "y" and press Enter
 * Type your "sudo" password when asked and press Enter
