@@ -1,6 +1,6 @@
 ## What is this script?
 This script will help you install all the required libraries to get you going as Data Scientist "If you are one!"
-By using this script you will have all the following instaled on your Linux machine:
+By using this script you will have all the following installed on your Linux machine:
 
 ## Libraries:
 |    Jupyter   | Testresources |    Wheel   | Pandas |  Numpy  |
