@@ -13,7 +13,7 @@ By using this script you will have all the following installed on your Linux mac
 It will install all libraries for both Python2 & Python3
 
 ## Tested?
-This script has only been tested on Ubuntu 18.04.2 LTS bionic<br>
+This script has only been tested on Ubuntu 18.04.2 LTS<br>
 It will do all the work in the background, and you will be able to see what is installing.<br>
 An "output.txt" file will be created on your desktop and you can check it to see if there was any errors in the process.<br>
 <strong><i>Check the "output.txt" file included to see the results of the installation</i></strong><br>
